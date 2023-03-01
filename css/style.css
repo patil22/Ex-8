@@ -1,0 +1,45 @@
+body{
+    height: 100vh;
+    background-image: linear-gradient(rgb(255,255,255),rgb(109,39,239));
+}
+
+#img{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 593px;
+}
+.container{
+    background-color: rgb(39, 204, 33);
+    margin: auto;
+    width: 833px;
+    height: 222px;
+    padding: 33px;
+    overflow-y: auto;
+    margin-bottom: 33px;
+}
+.msgright{
+    float: right;
+    clear: both;
+}
+.msgleft{
+    float: left;
+    clear: both;
+}
+.sendcon{
+
+    position: absolute;
+    top: 412px;
+    left: 252px;
+
+}
+#msginp{
+    height: 32px;
+    width: 733px;
+}
+#btn{
+    width: 55px;
+    cursor: pointer;
+    height: 38px;
+}
+
